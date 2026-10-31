@@ -6,7 +6,7 @@ Excel model that forecasts RTX Corporation's financial statements through 2030 a
 What is one share of RTX worth, and how does that compare to its market price of $206.52 (3/3/2026)?
 
 ## Result
-| | |
+| Metric | Value |
 |---|---|
 | Estimated value per share | ~$144 |
 | Market price (3/3/2026) | $206.52 |
@@ -14,9 +14,11 @@ What is one share of RTX worth, and how does that compare to its market price of
 | Sensitivity range (WACC 7–9%, terminal growth 2–4%) | ~$98 – $252 |
 | Recommendation | Sell |
 
-![DCF valuation model](DCF Valuation.png)
+<img width="1322" height="663" alt="DCF Valuation" src="https://github.com/user-attachments/assets/19126047-2d6b-4c1f-a9bc-9b62950ec89f" />
 
-![Sensitivity analysis](Sensitivity Analysis.png)
+<img width="752" height="223" alt="Sensitivity Analysis" src="https://github.com/user-attachments/assets/ea19a318-4ce5-44b0-94f7-88ae44551587" />
+
+
 
 ## Method
 1. **Forecast** the income statement and balance sheet for 2026–2030.
