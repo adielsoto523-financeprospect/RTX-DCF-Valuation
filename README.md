@@ -14,9 +14,9 @@ What is one share of RTX worth, and how does that compare to its market price of
 | Sensitivity range (WACC 7–9%, terminal growth 2–4%) | ~$98 – $252 |
 | Recommendation | Sell |
 
-![DCF valuation model](DCF_Valuation.png)
+![DCF valuation model](DCF Valuation.png)
 
-![Sensitivity analysis](Sensitivity_Analysis.png)
+![Sensitivity analysis](Sensitivity Analysis.png)
 
 ## Method
 1. **Forecast** the income statement and balance sheet for 2026–2030.
